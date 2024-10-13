@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Imt</string>
+    <string name="hintWeightET">Введите Ваш вес в кг</string>
+    <string name="hintHeightET">Введите Ваш рост в см</string>
+    <string name="textCalculateBTN">Рассчитать ИМТ</string>
+</resources>
